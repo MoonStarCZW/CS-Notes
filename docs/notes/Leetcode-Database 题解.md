@@ -1,4 +1,3 @@
-[🍉 点击订阅面试进阶专栏 ](https://xiaozhuanlan.com/CyC2018)
 <!-- GFM-TOC -->
 * [595. Big Countries](#595-big-countries)
 * [627. Swap Salary](#627-swap-salary)
@@ -497,7 +496,7 @@ https://leetcode.com/problems/customers-who-never-order/description/
 
 ## Description
 
-Curstomers 表：
+Customers 表：
 
 ```html
 +----+-------+
@@ -949,3 +948,8 @@ WHERE
 ORDER BY
     id;
 ```
+
+
+
+
+</br><div align="center"> <img src="https://cyc-1256109796.cos.ap-guangzhou.myqcloud.com/%E5%85%AC%E4%BC%97%E5%8F%B7%20%E6%B5%B7%E6%8A%A5.png" width="500px"> </div></br>

@@ -1,4 +1,3 @@
-[🍉 点击订阅面试进阶专栏 ](https://xiaozhuanlan.com/CyC2018)
 <!-- GFM-TOC -->
 * [一、解决的问题](#一解决的问题)
 * [二、与虚拟机的比较](#二与虚拟机的比较)
@@ -90,3 +89,8 @@ Docker 轻量级的特点使得它很适合用于部署、维护、组合微服�
 - [What is Docker](https://www.docker.com/what-docker)
 - [持续集成是什么？](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
 
+
+
+
+
+</br><div align="center"> <img src="https://cyc-1256109796.cos.ap-guangzhou.myqcloud.com/%E5%85%AC%E4%BC%97%E5%8F%B7%20%E6%B5%B7%E6%8A%A5.png" width="500px"> </div></br>
